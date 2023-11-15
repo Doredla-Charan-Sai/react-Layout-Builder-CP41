@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.header-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: #cbd5e1;
+  width: 100%;
+}
+.main-header {
+  color: #64748b;
+  font-family: 'Roboto';
+}

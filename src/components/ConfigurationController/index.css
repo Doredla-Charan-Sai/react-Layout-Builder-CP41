@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.loader-cont {
+  background-color: #475569;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.main-head {
+  font-family: 'Roboto';
+  color: white;
+}
+.check-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+.input {
+  margin-right: 5px;
+  cursor: pointer;
+}
+.label {
+  font-family: 'Roboto';
+  color: white;
+  cursor: pointer;
+}
